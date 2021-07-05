@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "401906419578",
+    "firebase_url": "https://cybercracia-elix-default-rtdb.firebaseio.com",
+    "project_id": "cybercracia-elix",
+    "storage_bucket": "cybercracia-elix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401906419578:android:4947c39bdfa1409f5278c3",
+        "android_client_info": {
+          "package_name": "com.elizeuvix.unity.cybercracia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401906419578-btor4jg6mjg4pjuko5tu85sr7covb4u3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu7r20-ZhZIzGAKpXRoi-YZoSndHoOnLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401906419578-btor4jg6mjg4pjuko5tu85sr7covb4u3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "401906419578-9ohmqk72aqg1tat3lvb6imnqq6ldm2r0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elizeuvix.cybercracia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
